@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:id="@+id/pop">
+	
+	<!-- 定义 GridView来显示四个按钮-->
+	<GridView 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:numColumns="5"
+	    android:horizontalSpacing="10dp"
+	    android:verticalSpacing="10dp"
+	    android:id="@+id/gridView"/>
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+

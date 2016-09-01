@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">musicplayer</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_songs">SongsActivity</string>
+    <string name="no_lrc_file">木有歌词文件啊...</string>
+    <string name="no_read_file">木有读取到歌词啊！</string>
+    <string name="videoThumbnail">视频缩略图</string>
+    <string name="videonofind">文件未找到</string>
+    <string name="videoStart">start</string>
+    <string name="videoPause">pause</string>
+    <string name="videoReset">reset</string>
+    <string name="videoStop">stop</string>
+    <string name="videoTakeScreem">takeScreem</string>
+    <string name="screenShotSuccess">截图保存成功</string>
+    <string name="screenShotError">截图保存失败</string>
+    <string name="pageLoadWait">数据正在加载&#8230;</string>
+    <string name="music">音乐</string>
+    <string name="video">视频</string>
+</resources>
